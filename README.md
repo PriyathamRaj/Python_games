@@ -1,2 +1,2 @@
 # Python_games
-Word and other games for code practice
+Word and other games for Python practice
